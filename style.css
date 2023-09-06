@@ -1,0 +1,25 @@
+*{
+	Background-color:black;
+}
+
+img{
+	width:100%;
+	border:5px solid white;
+}
+
+h1{
+	color:white;
+	Text-transform:uppercase;
+	font-family: 'Caveat', cursive;
+font-family: 'Libre Baskerville', serif;
+}
+p{
+color:white;	
+}
+
+.avocado{
+	Text-align:center;
+	width:50%;
+	margin-left:25%;
+	
+}
